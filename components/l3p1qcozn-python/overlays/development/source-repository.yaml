@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l3p1qcozn-python-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/l3p1qcozn-python
